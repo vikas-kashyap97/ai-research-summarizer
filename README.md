@@ -1,4 +1,4 @@
-# [Live link]()
+# [Live link](https://ai-research-summarizer.streamlit.app/)
 
 # 📄 AI-Powered Research Summarizer
 
@@ -69,7 +69,7 @@ Welcome to the **AI-Powered Research Summarizer**, a Streamlit-based web app pow
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-research-summarizer.git
+https://github.com/vikas-kashyap97/ai-research-summarizer.git
 cd ai-research-summarizer
 ```
 
