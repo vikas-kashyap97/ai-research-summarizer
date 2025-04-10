@@ -19,7 +19,8 @@ typing-extensions
 pymupdf
 
 # Export Summaries as PDF or DOCX
-python-docx reportlab
+python-docx 
+reportlab
 
 # Text-to-Speech Functionality
 gTTS
