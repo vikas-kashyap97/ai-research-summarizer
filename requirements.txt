@@ -1,0 +1,25 @@
+# Core Streamlit app and environment loading
+streamlit
+python-dotenv
+
+# LangChain and Google Generative AI integration
+langchain
+langchain-google-genai
+
+# Optional: Ensures compatibility with LangChain ecosystem and prompt handling
+langchain-core
+
+# Optional: If you’re using Gemini models through Google Generative AI, ensure this is included
+google-generativeai
+
+# If you're using Python 3.11+, LangChain might need specific typing support
+typing-extensions
+
+# PDF Upload & Parsing Support
+pymupdf
+
+# Export Summaries as PDF or DOCX
+python-docx reportlab
+
+# Text-to-Speech Functionality
+gTTS
